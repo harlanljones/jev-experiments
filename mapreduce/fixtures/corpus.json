@@ -1,0 +1,996 @@
+{
+ "seed": 20260918,
+ "generated": "2026-09-19T02:10:24.657Z",
+ "docs": [
+  {
+   "id": "T1-0",
+   "tier": "T1",
+   "text": "Support answered in minutes and fixed our webhook issue the same day. Genuinely great.",
+   "truth": {
+    "topic": "support",
+    "s": 3,
+    "actionable": false
+   },
+   "note": "support_pos"
+  },
+  {
+   "id": "T1-1",
+   "tier": "T1",
+   "text": "The API documentation is three versions out of date and support gave no timeline to fix it.",
+   "truth": {
+    "topic": "support",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "support_neg"
+  },
+  {
+   "id": "T1-2",
+   "tier": "T1",
+   "text": "Setup took five minutes and everything just worked. Very impressed.",
+   "truth": {
+    "topic": "other",
+    "s": 3,
+    "actionable": false
+   },
+   "note": "other_pos"
+  },
+  {
+   "id": "T1-3",
+   "tier": "T1",
+   "text": "The changelog format changed recently and I'm still finding my way around it.",
+   "truth": {
+    "topic": "other",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "other_neutral"
+  },
+  {
+   "id": "T1-4",
+   "tier": "T1",
+   "text": "We're paying half more for the same tier. The new pricing is not reasonable and we need it reviewed.",
+   "truth": {
+    "topic": "pricing",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "pricing_neg"
+  },
+  {
+   "id": "T1-5",
+   "tier": "T1",
+   "text": "the mobile app corrupted our export twice this month. We need a fix immediately.",
+   "truth": {
+    "topic": "reliability",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "rel_neg"
+  },
+  {
+   "id": "T1-6",
+   "tier": "T1",
+   "text": "Load times on the dashboard seem unchanged since last quarter, roughly the same speed.",
+   "truth": {
+    "topic": "performance",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "perf_neutral"
+  },
+  {
+   "id": "T1-7",
+   "tier": "T1",
+   "text": "Stability has been mostly fine lately but the one data loss incident in March still needs a written explanation.",
+   "truth": {
+    "topic": "reliability",
+    "s": 2,
+    "actionable": true
+   },
+   "note": "rel_mixed"
+  },
+  {
+   "id": "T1-8",
+   "tier": "T1",
+   "text": "You billed our card a third more than agreed. We are evaluating competitors at renewal if this isn't refunded.",
+   "truth": {
+    "topic": "pricing",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "pricing_angry"
+  },
+  {
+   "id": "T1-9",
+   "tier": "T1",
+   "text": "the mobile app takes 12 seconds to load on our biggest account. This lag is hurting our demos.",
+   "truth": {
+    "topic": "performance",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "perf_neg"
+  },
+  {
+   "id": "T1-10",
+   "tier": "T1",
+   "text": "The docs team walked us through the migration personally. Excellent experience.",
+   "truth": {
+    "topic": "support",
+    "s": 3,
+    "actionable": false
+   },
+   "note": "support_pos"
+  },
+  {
+   "id": "T1-11",
+   "tier": "T1",
+   "text": "Support responses take days and the help articles don't cover our error.",
+   "truth": {
+    "topic": "support",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "support_neg"
+  },
+  {
+   "id": "T1-12",
+   "tier": "T1",
+   "text": "The keyboard shortcuts alone are worth the subscription. Lovely product.",
+   "truth": {
+    "topic": "other",
+    "s": 3,
+    "actionable": false
+   },
+   "note": "other_pos"
+  },
+  {
+   "id": "T1-13",
+   "tier": "T1",
+   "text": "Would love a dark mode toggle in a future release, whenever it's convenient.",
+   "truth": {
+    "topic": "other",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "other_neutral"
+  },
+  {
+   "id": "T1-14",
+   "tier": "T1",
+   "text": "Price increased a third at renewal without notice. The billing team should explain this.",
+   "truth": {
+    "topic": "pricing",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "pricing_neg"
+  },
+  {
+   "id": "T1-15",
+   "tier": "T1",
+   "text": "the sync client crashed on sync twice today and we lost unsaved work. Unacceptable.",
+   "truth": {
+    "topic": "reliability",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "rel_neg"
+  },
+  {
+   "id": "T1-16",
+   "tier": "T1",
+   "text": "the export tool performance is about average for this class of tool, nothing notable.",
+   "truth": {
+    "topic": "performance",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "perf_neutral"
+  },
+  {
+   "id": "T1-17",
+   "tier": "T1",
+   "text": "No crashes in weeks now, but I'd like a documented guarantee about data retention before we renew.",
+   "truth": {
+    "topic": "reliability",
+    "s": 2,
+    "actionable": true
+   },
+   "note": "rel_mixed"
+  },
+  {
+   "id": "T1-18",
+   "tier": "T1",
+   "text": "We were charged twice for October and the refund still hasn't arrived. This is unacceptable.",
+   "truth": {
+    "topic": "pricing",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "pricing_angry"
+  },
+  {
+   "id": "T1-19",
+   "tier": "T1",
+   "text": "Search on the export tool is noticeably slow and requests lag for seconds at a time. Needs work.",
+   "truth": {
+    "topic": "performance",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "perf_neg"
+  },
+  {
+   "id": "T1-20",
+   "tier": "T1",
+   "text": "Chats with support were helpful, quick, and friendly throughout.",
+   "truth": {
+    "topic": "support",
+    "s": 3,
+    "actionable": false
+   },
+   "note": "support_pos"
+  },
+  {
+   "id": "T1-21",
+   "tier": "T1",
+   "text": "We opened three tickets and the support team never acknowledged the bug for a week.",
+   "truth": {
+    "topic": "support",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "support_neg"
+  },
+  {
+   "id": "T1-22",
+   "tier": "T1",
+   "text": "Autosave works well now and the new UI is a pleasure to use.",
+   "truth": {
+    "topic": "other",
+    "s": 3,
+    "actionable": false
+   },
+   "note": "other_pos"
+  },
+  {
+   "id": "T1-23",
+   "tier": "T1",
+   "text": "The onboarding checklist is a nice touch, just noting it exists.",
+   "truth": {
+    "topic": "other",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "other_neutral"
+  },
+  {
+   "id": "T1-24",
+   "tier": "T1",
+   "text": "The plan price went up a third this year and the invoice line items don't add up. Please fix the billing.",
+   "truth": {
+    "topic": "pricing",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "pricing_neg"
+  },
+  {
+   "id": "T1-25",
+   "tier": "T1",
+   "text": "An outage on Tuesday cost us a day of data and there was no postmortem. This cannot happen again.",
+   "truth": {
+    "topic": "reliability",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "rel_neg"
+  },
+  {
+   "id": "T1-26",
+   "tier": "T1",
+   "text": "The sync speed on the sync client is comparable to what we had before the migration.",
+   "truth": {
+    "topic": "performance",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "perf_neutral"
+  },
+  {
+   "id": "T1-27",
+   "tier": "T1",
+   "text": "Backup reliability worries me after last week's incident, though restores have worked since. Can you confirm the failover procedure?",
+   "truth": {
+    "topic": "reliability",
+    "s": 2,
+    "actionable": true
+   },
+   "note": "rel_mixed"
+  },
+  {
+   "id": "T1-28",
+   "tier": "T1",
+   "text": "Pricing doubled with zero notice and I demand a refund for the difference. Fix this today.",
+   "truth": {
+    "topic": "pricing",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "pricing_angry"
+  },
+  {
+   "id": "T1-29",
+   "tier": "T1",
+   "text": "the workspace became sluggish after the last release; large files crawl to open.",
+   "truth": {
+    "topic": "performance",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "perf_neg"
+  },
+  {
+   "id": "T2-0",
+   "tier": "T2",
+   "text": "Renewal came in a third above what we budgeted. Can someone from billing walk me through it?",
+   "truth": {
+    "topic": "pricing",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "pricing_neg"
+  },
+  {
+   "id": "T2-1",
+   "tier": "T2",
+   "text": "It'd be nice if the changelog had an RSS feed eventually.",
+   "truth": {
+    "topic": "other",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "other_neutral"
+  },
+  {
+   "id": "T2-2",
+   "tier": "T2",
+   "text": "Your team turned our ticket around in under an hour and stayed on it until it was fixed. Great team.",
+   "truth": {
+    "topic": "support",
+    "s": 3,
+    "actionable": false
+   },
+   "note": "support_pos"
+  },
+  {
+   "id": "T2-3",
+   "tier": "T2",
+   "text": "Three tickets in and no acknowledgment after a week. Please at least acknowledge the ticket.",
+   "truth": {
+    "topic": "support",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "support_neg"
+  },
+  {
+   "id": "T2-4",
+   "tier": "T2",
+   "text": "No complaints since the patch, though I'd still like that postmortem from March.",
+   "truth": {
+    "topic": "reliability",
+    "s": 2,
+    "actionable": true
+   },
+   "note": "rel_mixed"
+  },
+  {
+   "id": "T2-5",
+   "tier": "T2",
+   "text": "We're seeing duplicate charges and an incorrect invoice on top. Fix this immediately or we're moving to a competitor.",
+   "truth": {
+    "topic": "pricing",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "pricing_angry"
+  },
+  {
+   "id": "T2-6",
+   "tier": "T2",
+   "text": "The shortcuts are a small delight and the product feels solid. Worth every cent.",
+   "truth": {
+    "topic": "other",
+    "s": 3,
+    "actionable": false
+   },
+   "note": "other_pos"
+  },
+  {
+   "id": "T2-7",
+   "tier": "T2",
+   "text": "Performance on the mobile app is roughly the same to before, nothing to report.",
+   "truth": {
+    "topic": "performance",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "perf_neutral"
+  },
+  {
+   "id": "T2-8",
+   "tier": "T2",
+   "text": "Honestly, the export tool feels noticeably slower since the update. Can engineering look into it?",
+   "truth": {
+    "topic": "performance",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "perf_neg"
+  },
+  {
+   "id": "T2-9",
+   "tier": "T2",
+   "text": "the export tool went down again and we our in-progress export was gone. Not okay.",
+   "truth": {
+    "topic": "reliability",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "rel_neg"
+  },
+  {
+   "id": "T2-10",
+   "tier": "T2",
+   "text": "double increase on the same plan this cycle. Please review the invoice.",
+   "truth": {
+    "topic": "pricing",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "pricing_neg"
+  },
+  {
+   "id": "T2-11",
+   "tier": "T2",
+   "text": "Just noting the dashboard looks different after the redesign, no opinion yet.",
+   "truth": {
+    "topic": "other",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "other_neutral"
+  },
+  {
+   "id": "T2-12",
+   "tier": "T2",
+   "text": "Support stayed with us through the whole migration and resolved it same-day. Exactly how it should work.",
+   "truth": {
+    "topic": "support",
+    "s": 3,
+    "actionable": false
+   },
+   "note": "support_pos"
+  },
+  {
+   "id": "T2-13",
+   "tier": "T2",
+   "text": "The documentation doesn't match the current API and support has no answers. Please at least acknowledge the ticket.",
+   "truth": {
+    "topic": "support",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "support_neg"
+  },
+  {
+   "id": "T2-14",
+   "tier": "T2",
+   "text": "Mostly stable these days, but can you confirm the failover path in writing?",
+   "truth": {
+    "topic": "reliability",
+    "s": 2,
+    "actionable": true
+   },
+   "note": "rel_mixed"
+  },
+  {
+   "id": "T2-15",
+   "tier": "T2",
+   "text": "Our card got billed twice this month and the refund request went nowhere. we're taking our budget elsewhere.",
+   "truth": {
+    "topic": "pricing",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "pricing_angry"
+  },
+  {
+   "id": "T2-16",
+   "tier": "T2",
+   "text": "Migrating took minutes and it has been smooth sailing. Really happy with it.",
+   "truth": {
+    "topic": "other",
+    "s": 3,
+    "actionable": false
+   },
+   "note": "other_pos"
+  },
+  {
+   "id": "T2-17",
+   "tier": "T2",
+   "text": "Speed-wise the export tool is roughly the same to last quarter as far as we can tell.",
+   "truth": {
+    "topic": "performance",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "perf_neutral"
+  },
+  {
+   "id": "T2-18",
+   "tier": "T2",
+   "text": "Laggy is the only way to describe the export tool on big accounts right now. Please profile the hot paths.",
+   "truth": {
+    "topic": "performance",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "perf_neg"
+  },
+  {
+   "id": "T2-19",
+   "tier": "T2",
+   "text": "Twice this month the sync client crashed mid-session and we lost a chunk of unsaved work. Absolutely unacceptable.",
+   "truth": {
+    "topic": "reliability",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "rel_neg"
+  },
+  {
+   "id": "T2-20",
+   "tier": "T2",
+   "text": "Renewal came in 40% above what we budgeted. Can someone from billing walk me through it?",
+   "truth": {
+    "topic": "pricing",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "pricing_neg"
+  },
+  {
+   "id": "T2-21",
+   "tier": "T2",
+   "text": "Dark mode would be welcome down the line, no rush.",
+   "truth": {
+    "topic": "other",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "other_neutral"
+  },
+  {
+   "id": "T2-22",
+   "tier": "T2",
+   "text": "Your team turned our ticket around in under an hour and stayed on it until it was fixed. Exactly how it should work.",
+   "truth": {
+    "topic": "support",
+    "s": 3,
+    "actionable": false
+   },
+   "note": "support_pos"
+  },
+  {
+   "id": "T2-23",
+   "tier": "T2",
+   "text": "Three tickets in and no acknowledgment after a week. Please at least acknowledge the ticket.",
+   "truth": {
+    "topic": "support",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "support_neg"
+  },
+  {
+   "id": "T2-24",
+   "tier": "T2",
+   "text": "No complaints since the patch, though I'd still like that postmortem from March.",
+   "truth": {
+    "topic": "reliability",
+    "s": 2,
+    "actionable": true
+   },
+   "note": "rel_mixed"
+  },
+  {
+   "id": "T2-25",
+   "tier": "T2",
+   "text": "Our card got billed twice this month and the refund request went nowhere. we're moving to a competitor.",
+   "truth": {
+    "topic": "pricing",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "pricing_angry"
+  },
+  {
+   "id": "T2-26",
+   "tier": "T2",
+   "text": "The shortcuts are a small delight and the product feels solid. Worth every cent.",
+   "truth": {
+    "topic": "other",
+    "s": 3,
+    "actionable": false
+   },
+   "note": "other_pos"
+  },
+  {
+   "id": "T2-27",
+   "tier": "T2",
+   "text": "We haven't noticed much difference in the workspace responsiveness either way.",
+   "truth": {
+    "topic": "performance",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "perf_neutral"
+  },
+  {
+   "id": "T2-28",
+   "tier": "T2",
+   "text": "Honestly, the mobile app feels noticeably slower since the update. Can engineering look into it?",
+   "truth": {
+    "topic": "performance",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "perf_neg"
+  },
+  {
+   "id": "T2-29",
+   "tier": "T2",
+   "text": "the workspace went down again and we we lost a chunk of unsaved work. Not okay.",
+   "truth": {
+    "topic": "reliability",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "rel_neg"
+  },
+  {
+   "id": "T3-0",
+   "tier": "T3",
+   "text": "the workspace takes 12 seconds to load on our biggest account. This lag is hurting our demos. Separately, the sync client performance is about average for this class of tool, nothing notable.",
+   "truth": {
+    "topic": "performance",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "mixed:perf_neg+perf_neutral"
+  },
+  {
+   "id": "T3-1",
+   "tier": "T3",
+   "text": "The docs team walked us through the migration personally. Excellent experience. That said, search on the sync client is noticeably slow and requests lag for seconds at a time. Needs work.",
+   "truth": {
+    "topic": "performance",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "negation:perf_neg"
+  },
+  {
+   "id": "T3-2",
+   "tier": "T3",
+   "text": "What's the current status of the September release train?",
+   "truth": {
+    "topic": "other",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "no-signal"
+  },
+  {
+   "id": "T3-3",
+   "tier": "T3",
+   "text": "The sync speed on the sync client is comparable to what we had before the migration. Separately, the sync client takes 12 seconds to load on our biggest account. This lag is hurting our demos.",
+   "truth": {
+    "topic": "performance",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "mixed:perf_neutral+perf_neg"
+  },
+  {
+   "id": "T3-4",
+   "tier": "T3",
+   "text": "Chats with support were helpful, quick, and friendly throughout. That said, the sync client takes 12 seconds to load on our biggest account. This lag is hurting our demos.",
+   "truth": {
+    "topic": "performance",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "negation:perf_neg"
+  },
+  {
+   "id": "T3-5",
+   "tier": "T3",
+   "text": "Ack, received the updated contract, no questions right now.",
+   "truth": {
+    "topic": "other",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "no-signal"
+  },
+  {
+   "id": "T3-6",
+   "tier": "T3",
+   "text": "The sync speed on the sync client is comparable to what we had before the migration. Separately, you billed our card double more than agreed. We are evaluating competitors at renewal if this isn't refunded.",
+   "truth": {
+    "topic": "pricing",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "mixed:perf_neutral+pricing_angry"
+  },
+  {
+   "id": "T3-7",
+   "tier": "T3",
+   "text": "Chats with support were helpful, quick, and friendly throughout. That said, the sync speed on the sync client is comparable to what we had before the migration.",
+   "truth": {
+    "topic": "performance",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "negation:perf_neutral"
+  },
+  {
+   "id": "T3-8",
+   "tier": "T3",
+   "text": "Ack, received the updated contract, no questions right now.",
+   "truth": {
+    "topic": "other",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "no-signal"
+  },
+  {
+   "id": "T3-9",
+   "tier": "T3",
+   "text": "Pricing doubled with zero notice and I demand a refund for the difference. Fix this today. Separately, the export tool takes 12 seconds to load on our biggest account. This lag is hurting our demos.",
+   "truth": {
+    "topic": "pricing",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "mixed:pricing_angry+perf_neg"
+  },
+  {
+   "id": "T3-10",
+   "tier": "T3",
+   "text": "Chats with support were helpful, quick, and friendly throughout. That said, backup reliability worries me after last week's incident, though restores have worked since. Can you confirm the failover procedure?",
+   "truth": {
+    "topic": "reliability",
+    "s": 2,
+    "actionable": true
+   },
+   "note": "negation:rel_mixed"
+  },
+  {
+   "id": "T3-11",
+   "tier": "T3",
+   "text": "FYI we updated the contact person on the account to our new ops lead.",
+   "truth": {
+    "topic": "other",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "no-signal"
+  },
+  {
+   "id": "T3-12",
+   "tier": "T3",
+   "text": "Load times on the workspace seem unchanged since last quarter, roughly the same speed. Separately, pricing doubled with zero notice and I demand a refund for the difference. Fix this today.",
+   "truth": {
+    "topic": "pricing",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "mixed:perf_neutral+pricing_angry"
+  },
+  {
+   "id": "T3-13",
+   "tier": "T3",
+   "text": "Support answered in minutes and fixed our webhook issue the same day. Genuinely great. That said, the mobile app became sluggish after the last release; large files crawl to open.",
+   "truth": {
+    "topic": "performance",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "negation:perf_neg"
+  },
+  {
+   "id": "T3-14",
+   "tier": "T3",
+   "text": "FYI we updated the contact person on the account to our new ops lead.",
+   "truth": {
+    "topic": "other",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "no-signal"
+  },
+  {
+   "id": "T3-15",
+   "tier": "T3",
+   "text": "the sync client performance is about average for this class of tool, nothing notable. Separately, pricing doubled with zero notice and I demand a refund for the difference. Fix this today.",
+   "truth": {
+    "topic": "pricing",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "mixed:perf_neutral+pricing_angry"
+  },
+  {
+   "id": "T3-16",
+   "tier": "T3",
+   "text": "Support answered in minutes and fixed our webhook issue the same day. Genuinely great. That said, an outage on Tuesday cost us a day of data and there was no postmortem. This cannot happen again.",
+   "truth": {
+    "topic": "reliability",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "negation:rel_neg"
+  },
+  {
+   "id": "T3-17",
+   "tier": "T3",
+   "text": "What's the current status of the September release train?",
+   "truth": {
+    "topic": "other",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "no-signal"
+  },
+  {
+   "id": "T3-18",
+   "tier": "T3",
+   "text": "We were charged twice for October and the refund still hasn't arrived. This is unacceptable. Separately, the dashboard became sluggish after the last release; large files crawl to open.",
+   "truth": {
+    "topic": "pricing",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "mixed:pricing_angry+perf_neg"
+  },
+  {
+   "id": "T3-19",
+   "tier": "T3",
+   "text": "Chats with support were helpful, quick, and friendly throughout. That said, the dashboard takes 12 seconds to load on our biggest account. This lag is hurting our demos.",
+   "truth": {
+    "topic": "performance",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "negation:perf_neg"
+  },
+  {
+   "id": "T3-20",
+   "tier": "T3",
+   "text": "Ack, received the updated contract, no questions right now.",
+   "truth": {
+    "topic": "other",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "no-signal"
+  },
+  {
+   "id": "T3-21",
+   "tier": "T3",
+   "text": "The plan price went up a third this year and the invoice line items don't add up. Please fix the billing. Separately, we were charged twice for October and the refund still hasn't arrived. This is unacceptable.",
+   "truth": {
+    "topic": "pricing",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "mixed:pricing_neg+pricing_angry"
+  },
+  {
+   "id": "T3-22",
+   "tier": "T3",
+   "text": "The docs team walked us through the migration personally. Excellent experience. That said, the workspace became sluggish after the last release; large files crawl to open.",
+   "truth": {
+    "topic": "performance",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "negation:perf_neg"
+  },
+  {
+   "id": "T3-23",
+   "tier": "T3",
+   "text": "FYI we updated the contact person on the account to our new ops lead.",
+   "truth": {
+    "topic": "other",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "no-signal"
+  },
+  {
+   "id": "T3-24",
+   "tier": "T3",
+   "text": "Search on the export tool is noticeably slow and requests lag for seconds at a time. Needs work. Separately, we're paying double more for the same tier. The new pricing is not reasonable and we need it reviewed.",
+   "truth": {
+    "topic": "performance",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "mixed:perf_neg+pricing_neg"
+  },
+  {
+   "id": "T3-25",
+   "tier": "T3",
+   "text": "The docs team walked us through the migration personally. Excellent experience. That said, the export tool corrupted our export twice this month. We need a fix immediately.",
+   "truth": {
+    "topic": "reliability",
+    "s": 0,
+    "actionable": true
+   },
+   "note": "negation:rel_neg"
+  },
+  {
+   "id": "T3-26",
+   "tier": "T3",
+   "text": "What's the current status of the September release train?",
+   "truth": {
+    "topic": "other",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "no-signal"
+  },
+  {
+   "id": "T3-27",
+   "tier": "T3",
+   "text": "Load times on the sync client seem unchanged since last quarter, roughly the same speed. Separately, search on the workspace is noticeably slow and requests lag for seconds at a time. Needs work.",
+   "truth": {
+    "topic": "performance",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "mixed:perf_neutral+perf_neg"
+  },
+  {
+   "id": "T3-28",
+   "tier": "T3",
+   "text": "The docs team walked us through the migration personally. Excellent experience. That said, the workspace takes 12 seconds to load on our biggest account. This lag is hurting our demos.",
+   "truth": {
+    "topic": "performance",
+    "s": 1,
+    "actionable": true
+   },
+   "note": "negation:perf_neg"
+  },
+  {
+   "id": "T3-29",
+   "tier": "T3",
+   "text": "What's the current status of the September release train?",
+   "truth": {
+    "topic": "other",
+    "s": 2,
+    "actionable": false
+   },
+   "note": "no-signal"
+  }
+ ]
+}

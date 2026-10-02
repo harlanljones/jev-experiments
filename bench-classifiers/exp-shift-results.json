@@ -1,0 +1,59 @@
+{
+  "nTest": 48,
+  "rows": [
+    {
+      "name": "keyword-rules",
+      "inDistChoice": 0.6666666666666666,
+      "shiftChoice": 0.2708333333333333,
+      "deltaChoice": -0.3958333333333333,
+      "inDistScore": 0.8541666666666666,
+      "shiftScore": 0.5416666666666666,
+      "deltaScore": -0.3125
+    },
+    {
+      "name": "naive-bayes(n=50)",
+      "inDistChoice": 0.75,
+      "shiftChoice": 0.2916666666666667,
+      "deltaChoice": -0.4583333333333333,
+      "inDistScore": 0.625,
+      "shiftScore": 0.5416666666666666,
+      "deltaScore": -0.08333333333333337
+    },
+    {
+      "name": "logreg-tfidf(n=50)",
+      "inDistChoice": 0.8541666666666666,
+      "shiftChoice": 0.25,
+      "deltaChoice": -0.6041666666666666,
+      "inDistScore": 0.7083333333333334,
+      "shiftScore": 0.5625,
+      "deltaScore": -0.14583333333333337
+    },
+    {
+      "name": "jev-zero-shot",
+      "inDistChoice": 0.9583333333333334,
+      "shiftChoice": 0.9166666666666666,
+      "deltaChoice": -0.04166666666666674,
+      "inDistScore": 0.6875,
+      "shiftScore": 0.7291666666666666,
+      "deltaScore": 0.04166666666666663
+    },
+    {
+      "name": "clef",
+      "inDistChoice": 0.8958333333333334,
+      "shiftChoice": 0.8333333333333334,
+      "deltaChoice": -0.0625,
+      "inDistScore": 0.6666666666666666,
+      "shiftScore": 0.75,
+      "deltaScore": 0.08333333333333337
+    },
+    {
+      "name": "clef-flash",
+      "inDistChoice": 0.9375,
+      "shiftChoice": 0.8333333333333334,
+      "deltaChoice": -0.10416666666666663,
+      "inDistScore": 0.6875,
+      "shiftScore": 0.6875,
+      "deltaScore": 0
+    }
+  ]
+}

@@ -1,0 +1,2240 @@
+{
+  "support-tickets": {
+    "train": [
+      {
+        "id": "train-0",
+        "split": "train",
+        "text": "Two former employees still have admin access; please revoke their logins. We need a response today. See attached logs.",
+        "label": "account",
+        "score": 2
+      },
+      {
+        "id": "train-1",
+        "split": "train",
+        "text": "Delete the personal data of a user who left the company. This week would be good. See attached logs.",
+        "label": "account",
+        "score": 1
+      },
+      {
+        "id": "train-2",
+        "split": "train",
+        "text": "We need a response today. Payment keeps failing on a valid card, so our subscription may lapse. Appreciate the help.",
+        "label": "billing",
+        "score": 2
+      },
+      {
+        "id": "train-3",
+        "split": "train",
+        "text": "No rush on this. Payment keeps failing on a valid card, so our subscription may lapse. Thanks.",
+        "label": "billing",
+        "score": 0
+      },
+      {
+        "id": "train-4",
+        "split": "train",
+        "text": "We are evaluating vendors for renewal: what can you do on a three-seat annual plan? Whenever you get a chance is fine. Ticket from our admin console.",
+        "label": "sales",
+        "score": 0
+      },
+      {
+        "id": "train-5",
+        "split": "train",
+        "text": "We were charged three times on our last invoice and the refund flow failed. We need a response today. See attached logs.",
+        "label": "billing",
+        "score": 2
+      },
+      {
+        "id": "train-6",
+        "split": "train",
+        "text": "Delete the personal data of a user who left the company. Please look when convenient this week. Appreciate the help.",
+        "label": "account",
+        "score": 1
+      },
+      {
+        "id": "train-7",
+        "split": "train",
+        "text": "Please merge our duplicate workspaces under one organization. Would be nice to have this week. Ticket from our admin console.",
+        "label": "account",
+        "score": 1
+      },
+      {
+        "id": "train-8",
+        "split": "train",
+        "text": "Whenever you get a chance is fine. Would love a dark mode and keyboard shortcuts for the annotation tool. Honestly considering canceling over this.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "train-9",
+        "split": "train",
+        "text": "Would love a dark mode and keyboard shortcuts for the annotation tool. Please look when convenient this week. See attached logs.",
+        "label": "other",
+        "score": 1
+      },
+      {
+        "id": "train-10",
+        "split": "train",
+        "text": "We need a purchase order for four licenses before procurement will proceed. Minor thing, ignore if busy. Ticket from our admin console.",
+        "label": "sales",
+        "score": 0
+      },
+      {
+        "id": "train-11",
+        "split": "train",
+        "text": "Please look when convenient this week. Webhooks return 429 errors intermittently, breaking our integration. Appreciate the help.",
+        "label": "technical",
+        "score": 1
+      },
+      {
+        "id": "train-12",
+        "split": "train",
+        "text": "Please look when convenient this week. Love the product overall, though the changelog formatting is odd. Thanks.",
+        "label": "other",
+        "score": 1
+      },
+      {
+        "id": "train-13",
+        "split": "train",
+        "text": "The exporter hangs at 80% and never finishes on large files. Production is down, every minute costs us deals. Our renewal decision now depends on how this is handled.",
+        "label": "technical",
+        "score": 3
+      },
+      {
+        "id": "train-14",
+        "split": "train",
+        "text": "Please prioritize, this is blocking a launch. The refund for the duplicate charge still has not arrived after 3 weeks. If this is not fixed we are moving to a competitor.",
+        "label": "billing",
+        "score": 2
+      },
+      {
+        "id": "train-15",
+        "split": "train",
+        "text": "Webhooks return 429 errors intermittently, breaking our integration. We are bleeding revenue this very minute, respond immediately. Honestly considering canceling over this.",
+        "label": "technical",
+        "score": 3
+      },
+      {
+        "id": "train-16",
+        "split": "train",
+        "text": "The dashboard takes 6 seconds to load on our biggest workspace. Leadership is asking about this today. Ticket from our admin console.",
+        "label": "technical",
+        "score": 2
+      },
+      {
+        "id": "train-17",
+        "split": "train",
+        "text": "Can we get an enterprise quote with SSO and a volume discount? Minor thing, ignore if busy. Appreciate the help.",
+        "label": "sales",
+        "score": 0
+      },
+      {
+        "id": "train-18",
+        "split": "train",
+        "text": "The dashboard takes 2 seconds to load on our biggest workspace. No emergency, but soon-ish. Ticket from our admin console.",
+        "label": "technical",
+        "score": 1
+      },
+      {
+        "id": "train-19",
+        "split": "train",
+        "text": "Can we get an enterprise quote with SSO and a volume discount? Whenever you get a chance is fine. See attached logs.",
+        "label": "sales",
+        "score": 0
+      },
+      {
+        "id": "train-20",
+        "split": "train",
+        "text": "No emergency, but soon-ish. API responses are missing fields that the docs promise for the Python SDK. See attached logs.",
+        "label": "technical",
+        "score": 1
+      },
+      {
+        "id": "train-21",
+        "split": "train",
+        "text": "Would be nice to have this week. The mobile app crashes on sync since the November update. Thanks.",
+        "label": "technical",
+        "score": 1
+      },
+      {
+        "id": "train-22",
+        "split": "train",
+        "text": "The invoice for September is wrong: it lists seats we removed in August. No rush on this. Appreciate the help.",
+        "label": "billing",
+        "score": 0
+      },
+      {
+        "id": "train-23",
+        "split": "train",
+        "text": "Minor thing, ignore if busy. Feature request: bulk tagging for saved views would save us hours. Ticket from our admin console.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "train-24",
+        "split": "train",
+        "text": "Would be nice to have this week. We are evaluating vendors for renewal: what can you do on a five-seat annual plan? Appreciate the help.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "train-25",
+        "split": "train",
+        "text": "What is included in the top tier that the mid tier lacks? We need a response today. Thanks.",
+        "label": "sales",
+        "score": 2
+      },
+      {
+        "id": "train-26",
+        "split": "train",
+        "text": "Leadership is asking about this today. We need a purchase order for five licenses before procurement will proceed. See attached logs.",
+        "label": "sales",
+        "score": 2
+      },
+      {
+        "id": "train-27",
+        "split": "train",
+        "text": "No emergency, but soon-ish. Our trial ends next week and we want to move 3 teams onto the paid tier. Appreciate the help.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "train-28",
+        "split": "train",
+        "text": "No rush on this. Would love a dark mode and keyboard shortcuts for the annotation tool. This is the last straw before we look at other vendors.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "train-29",
+        "split": "train",
+        "text": "Love the product overall, though the changelog formatting is odd. Would be nice to have this week. Appreciate the help.",
+        "label": "other",
+        "score": 1
+      },
+      {
+        "id": "train-30",
+        "split": "train",
+        "text": "Same-day reply appreciated, this is escalating. The invoice for October is wrong: it lists seats we removed in June. Ticket from our admin console.",
+        "label": "billing",
+        "score": 2
+      },
+      {
+        "id": "train-31",
+        "split": "train",
+        "text": "Our trial ends this Friday and we want to move 4 teams onto the paid tier. Please look when convenient this week. Appreciate the help.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "train-32",
+        "split": "train",
+        "text": "Webhooks return 502 errors intermittently, breaking our integration. Please prioritize, this is blocking a launch. Thanks.",
+        "label": "technical",
+        "score": 2
+      },
+      {
+        "id": "train-33",
+        "split": "train",
+        "text": "Same-day reply appreciated, this is escalating. Would love a dark mode and keyboard shortcuts for the annotation tool. If this is not fixed we are moving to a competitor.",
+        "label": "other",
+        "score": 2
+      },
+      {
+        "id": "train-34",
+        "split": "train",
+        "text": "No emergency, but soon-ish. Your price increase pushed our plan from $18 to $30 a seat with no notice. Thanks.",
+        "label": "billing",
+        "score": 1
+      },
+      {
+        "id": "train-35",
+        "split": "train",
+        "text": "SSO stopped working for 2 people after we changed our identity provider. We need a response today. If this is not fixed we are moving to a competitor.",
+        "label": "account",
+        "score": 2
+      },
+      {
+        "id": "train-36",
+        "split": "train",
+        "text": "The exporter hangs at 60% and never finishes on large files. Leadership is asking about this today. Thanks.",
+        "label": "technical",
+        "score": 2
+      },
+      {
+        "id": "train-37",
+        "split": "train",
+        "text": "The exporter hangs at 60% and never finishes on large files. Leadership is asking about this today. Our renewal decision now depends on how this is handled.",
+        "label": "technical",
+        "score": 2
+      },
+      {
+        "id": "train-38",
+        "split": "train",
+        "text": "Love the product overall, though the changelog formatting is odd. This week would be good. Appreciate the help.",
+        "label": "other",
+        "score": 1
+      },
+      {
+        "id": "train-39",
+        "split": "train",
+        "text": "No emergency, but soon-ish. SSO stopped working for 6 people after we changed our identity provider. Ticket from our admin console.",
+        "label": "account",
+        "score": 1
+      },
+      {
+        "id": "train-40",
+        "split": "train",
+        "text": "Webhooks return 429 errors intermittently, breaking our integration. Please prioritize, this is blocking a launch. Ticket from our admin console.",
+        "label": "technical",
+        "score": 2
+      },
+      {
+        "id": "train-41",
+        "split": "train",
+        "text": "No emergency, but soon-ish. Our trial ends this Friday and we want to move 3 teams onto the paid tier. Ticket from our admin console.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "train-42",
+        "split": "train",
+        "text": "Not urgent at all. Feature request: bulk tagging for saved views would save us hours. See attached logs.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "train-43",
+        "split": "train",
+        "text": "Billing emails land in spam and we missed the invoice due date. Production is down, every minute costs us deals. If this is not fixed we are moving to a competitor.",
+        "label": "billing",
+        "score": 3
+      },
+      {
+        "id": "train-44",
+        "split": "train",
+        "text": "No emergency, but soon-ish. Any plans to open an office or community meetup in Austin? See attached logs.",
+        "label": "other",
+        "score": 1
+      },
+      {
+        "id": "train-45",
+        "split": "train",
+        "text": "Not urgent at all. We were charged two times on our last invoice and the refund flow failed. Ticket from our admin console.",
+        "label": "billing",
+        "score": 0
+      },
+      {
+        "id": "train-46",
+        "split": "train",
+        "text": "Leadership is asking about this today. The invoice for August is wrong: it lists seats we removed in June. This is the last straw before we look at other vendors.",
+        "label": "billing",
+        "score": 2
+      },
+      {
+        "id": "train-47",
+        "split": "train",
+        "text": "Please look when convenient this week. Payment keeps failing on a valid card, so our subscription may lapse. Appreciate the help.",
+        "label": "billing",
+        "score": 1
+      },
+      {
+        "id": "train-48",
+        "split": "train",
+        "text": "This week would be good. Our trial ends this Friday and we want to move 2 teams onto the paid tier. This is the last straw before we look at other vendors.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "train-49",
+        "split": "train",
+        "text": "This week would be good. Your price increase pushed our plan from $15 to $30 a seat with no notice. See attached logs.",
+        "label": "billing",
+        "score": 1
+      }
+    ],
+    "test": [
+      {
+        "id": "test-50",
+        "split": "test",
+        "text": "This is an active outage and money is being lost right now. The refund for the duplicate charge still has not arrived after 2 weeks. Our renewal decision now depends on how this is handled.",
+        "label": "billing",
+        "score": 3
+      },
+      {
+        "id": "test-51",
+        "split": "test",
+        "text": "Leadership is asking about this today. The refund for the duplicate charge still has not arrived after 2 weeks. Appreciate the help.",
+        "label": "billing",
+        "score": 2
+      },
+      {
+        "id": "test-52",
+        "split": "test",
+        "text": "Payment keeps failing on a valid card, so our subscription may lapse. Leadership is asking about this today. If this is not fixed we are moving to a competitor.",
+        "label": "billing",
+        "score": 2
+      },
+      {
+        "id": "test-53",
+        "split": "test",
+        "text": "This week would be good. SSO stopped working for 2 people after we changed our identity provider. See attached logs.",
+        "label": "account",
+        "score": 1
+      },
+      {
+        "id": "test-54",
+        "split": "test",
+        "text": "Whenever you get a chance is fine. Your onboarding emails were genuinely useful, thanks to the team. This is the last straw before we look at other vendors.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "test-55",
+        "split": "test",
+        "text": "API responses are missing fields that the docs promise for the Go SDK. Same-day reply appreciated, this is escalating. This is the last straw before we look at other vendors.",
+        "label": "technical",
+        "score": 2
+      },
+      {
+        "id": "test-56",
+        "split": "test",
+        "text": "Production is down, every minute costs us deals. We were charged three times on our last invoice and the refund flow failed. This is the last straw before we look at other vendors.",
+        "label": "billing",
+        "score": 3
+      },
+      {
+        "id": "test-57",
+        "split": "test",
+        "text": "Production is down, every minute costs us deals. Our whole team got logged out and password reset emails never arrive. Thanks.",
+        "label": "account",
+        "score": 3
+      },
+      {
+        "id": "test-58",
+        "split": "test",
+        "text": "Please look when convenient this week. Two former employees still have admin access; please revoke their logins. Thanks.",
+        "label": "account",
+        "score": 1
+      },
+      {
+        "id": "test-59",
+        "split": "test",
+        "text": "Search requests lag for seconds on large projects and time out sometimes. Would be nice to have this week. See attached logs.",
+        "label": "technical",
+        "score": 1
+      },
+      {
+        "id": "test-60",
+        "split": "test",
+        "text": "Would be nice to have this week. Any plans to open an office or community meetup in Berlin? See attached logs.",
+        "label": "other",
+        "score": 1
+      },
+      {
+        "id": "test-61",
+        "split": "test",
+        "text": "Our trial ends in ten days and we want to move 2 teams onto the paid tier. Would be nice to have this week. See attached logs.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "test-62",
+        "split": "test",
+        "text": "The exporter hangs at 40% and never finishes on large files. All hands on deck, customers are churning as we speak. Our renewal decision now depends on how this is handled.",
+        "label": "technical",
+        "score": 3
+      },
+      {
+        "id": "test-63",
+        "split": "test",
+        "text": "This week would be good. Our trial ends next week and we want to move 8 teams onto the paid tier. Thanks.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "test-64",
+        "split": "test",
+        "text": "Feature request: bulk tagging for saved views would save us hours. No rush on this. See attached logs.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "test-65",
+        "split": "test",
+        "text": "No emergency, but soon-ish. SSO stopped working for 8 people after we changed our identity provider. Ticket from our admin console.",
+        "label": "account",
+        "score": 1
+      },
+      {
+        "id": "test-66",
+        "split": "test",
+        "text": "Love the product overall, though the changelog formatting is odd. We need a response today. Our renewal decision now depends on how this is handled.",
+        "label": "other",
+        "score": 2
+      },
+      {
+        "id": "test-67",
+        "split": "test",
+        "text": "What is included in the top tier that the mid tier lacks? Please look when convenient this week. Ticket from our admin console.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "test-68",
+        "split": "test",
+        "text": "Your onboarding emails were genuinely useful, thanks to the team. Whenever you get a chance is fine. This is the last straw before we look at other vendors.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "test-69",
+        "split": "test",
+        "text": "The invoice for August is wrong: it lists seats we removed in August. Same-day reply appreciated, this is escalating. Our renewal decision now depends on how this is handled.",
+        "label": "billing",
+        "score": 2
+      },
+      {
+        "id": "test-70",
+        "split": "test",
+        "text": "The refund for the duplicate charge still has not arrived after 3 weeks. All hands on deck, customers are churning as we speak. Our renewal decision now depends on how this is handled.",
+        "label": "billing",
+        "score": 3
+      },
+      {
+        "id": "test-71",
+        "split": "test",
+        "text": "Your onboarding emails were genuinely useful, thanks to the team. Minor thing, ignore if busy. Ticket from our admin console.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "test-72",
+        "split": "test",
+        "text": "Please look when convenient this week. We are evaluating vendors for renewal: what can you do on a three-seat annual plan? See attached logs.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "test-73",
+        "split": "test",
+        "text": "All hands on deck, customers are churning as we speak. Can we get an enterprise quote with SSO and a volume discount? This is the last straw before we look at other vendors.",
+        "label": "sales",
+        "score": 3
+      },
+      {
+        "id": "test-74",
+        "split": "test",
+        "text": "Do you offer nonprofit pricing, and how does it compare to the business plan? We need a response today. Thanks.",
+        "label": "sales",
+        "score": 2
+      },
+      {
+        "id": "test-75",
+        "split": "test",
+        "text": "No rush on this. Would love a dark mode and keyboard shortcuts for the annotation tool. See attached logs.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "test-76",
+        "split": "test",
+        "text": "This is an active outage and money is being lost right now. Your price increase pushed our plan from $12 to $30 a seat with no notice. This is the last straw before we look at other vendors.",
+        "label": "billing",
+        "score": 3
+      },
+      {
+        "id": "test-77",
+        "split": "test",
+        "text": "No emergency, but soon-ish. What is included in the top tier that the mid tier lacks? Appreciate the help.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "test-78",
+        "split": "test",
+        "text": "Please prioritize, this is blocking a launch. We were charged three times on our last invoice and the refund flow failed. Ticket from our admin console.",
+        "label": "billing",
+        "score": 2
+      },
+      {
+        "id": "test-79",
+        "split": "test",
+        "text": "Our trial ends in ten days and we want to move 4 teams onto the paid tier. This week would be good. See attached logs.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "test-80",
+        "split": "test",
+        "text": "Not urgent at all. The release notes are helpful; keep up the good work. See attached logs.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "test-81",
+        "split": "test",
+        "text": "Payment keeps failing on a valid card, so our subscription may lapse. Please prioritize, this is blocking a launch. Ticket from our admin console.",
+        "label": "billing",
+        "score": 2
+      }
+    ]
+  },
+  "tickets-hard": {
+    "train": [
+      {
+        "id": "train-0",
+        "split": "train",
+        "text": "Two former employees still have admin access; please revoke their logins. Two teams have paused their work while this is unresolved. See attached logs.",
+        "label": "account",
+        "score": 2
+      },
+      {
+        "id": "train-1",
+        "split": "train",
+        "text": "Delete the personal data of a user who left the company. Our team sync is in two weeks, before then is fine. See attached logs.",
+        "label": "account",
+        "score": 1
+      },
+      {
+        "id": "train-2",
+        "split": "train",
+        "text": "Two teams have paused their work while this is unresolved. Payment keeps failing on a valid card, so our subscription may lapse. Appreciate the help.",
+        "label": "billing",
+        "score": 2
+      },
+      {
+        "id": "train-3",
+        "split": "train",
+        "text": "Filing this so it is on the record for our documentation. Payment keeps failing on a valid card, so our subscription may lapse. Thanks.",
+        "label": "billing",
+        "score": 0
+      },
+      {
+        "id": "train-4",
+        "split": "train",
+        "text": "We are evaluating vendors for renewal: what can you do on a three-seat annual plan? This is for the notes we keep for the next planning cycle. Ticket from our admin console.",
+        "label": "sales",
+        "score": 0
+      },
+      {
+        "id": "train-5",
+        "split": "train",
+        "text": "We were charged three times on our last invoice and the refund flow failed. Two teams have paused their work while this is unresolved. See attached logs.",
+        "label": "billing",
+        "score": 2
+      },
+      {
+        "id": "train-6",
+        "split": "train",
+        "text": "Delete the personal data of a user who left the company. Whenever the roadmap allows. Appreciate the help.",
+        "label": "account",
+        "score": 1
+      },
+      {
+        "id": "train-7",
+        "split": "train",
+        "text": "Please merge our duplicate workspaces under one organization. It would help to have this before our next quarterly planning session. Ticket from our admin console.",
+        "label": "account",
+        "score": 1
+      },
+      {
+        "id": "train-8",
+        "split": "train",
+        "text": "This is for the notes we keep for the next planning cycle. Would love a dark mode and keyboard shortcuts for the annotation tool. Honestly considering canceling over this.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "train-9",
+        "split": "train",
+        "text": "Would love a dark mode and keyboard shortcuts for the annotation tool. Whenever the roadmap allows. See attached logs.",
+        "label": "other",
+        "score": 1
+      },
+      {
+        "id": "train-10",
+        "split": "train",
+        "text": "We need a purchase order for four licenses before procurement will proceed. This is for the notes we keep for the next planning cycle. Ticket from our admin console.",
+        "label": "sales",
+        "score": 0
+      },
+      {
+        "id": "train-11",
+        "split": "train",
+        "text": "Whenever the roadmap allows. Webhooks return 429 errors intermittently, breaking our integration. Appreciate the help.",
+        "label": "technical",
+        "score": 1
+      },
+      {
+        "id": "train-12",
+        "split": "train",
+        "text": "Whenever the roadmap allows. Love the product overall, though the changelog formatting is odd. Thanks.",
+        "label": "other",
+        "score": 1
+      },
+      {
+        "id": "train-13",
+        "split": "train",
+        "text": "The exporter hangs at 80% and never finishes on large files. The exec team has made this their single top ask this week. Our renewal decision now depends on how this is handled.",
+        "label": "technical",
+        "score": 3
+      },
+      {
+        "id": "train-14",
+        "split": "train",
+        "text": "Our launch committee meets Thursday and this affects the agenda. The refund for the duplicate charge still has not arrived after 3 weeks. If this is not fixed we are moving to a competitor.",
+        "label": "billing",
+        "score": 2
+      },
+      {
+        "id": "train-15",
+        "split": "train",
+        "text": "Webhooks return 429 errors intermittently, breaking our integration. Board reporting on Friday depends on these numbers being right. Honestly considering canceling over this.",
+        "label": "technical",
+        "score": 3
+      },
+      {
+        "id": "train-16",
+        "split": "train",
+        "text": "The dashboard takes 6 seconds to load on our biggest workspace. A signed customer is waiting on this before their rollout. Ticket from our admin console.",
+        "label": "technical",
+        "score": 2
+      },
+      {
+        "id": "train-17",
+        "split": "train",
+        "text": "Can we get an enterprise quote with SSO and a volume discount? Adding it to the backlog list we review monthly. Appreciate the help.",
+        "label": "sales",
+        "score": 0
+      },
+      {
+        "id": "train-18",
+        "split": "train",
+        "text": "The dashboard takes 2 seconds to load on our biggest workspace. Before the next release cycle would be handy. Ticket from our admin console.",
+        "label": "technical",
+        "score": 1
+      },
+      {
+        "id": "train-19",
+        "split": "train",
+        "text": "Can we get an enterprise quote with SSO and a volume discount? This is for the notes we keep for the next planning cycle. See attached logs.",
+        "label": "sales",
+        "score": 0
+      },
+      {
+        "id": "train-20",
+        "split": "train",
+        "text": "Before the next release cycle would be handy. API responses are missing fields that the docs promise for the Python SDK. See attached logs.",
+        "label": "technical",
+        "score": 1
+      },
+      {
+        "id": "train-21",
+        "split": "train",
+        "text": "It would help to have this before our next quarterly planning session. The mobile app crashes on sync since the November update. Thanks.",
+        "label": "technical",
+        "score": 1
+      },
+      {
+        "id": "train-22",
+        "split": "train",
+        "text": "The invoice for September is wrong: it lists seats we removed in August. Filing this so it is on the record for our documentation. Appreciate the help.",
+        "label": "billing",
+        "score": 0
+      },
+      {
+        "id": "train-23",
+        "split": "train",
+        "text": "This is for the notes we keep for the next planning cycle. Feature request: bulk tagging for saved views would save us hours. Ticket from our admin console.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "train-24",
+        "split": "train",
+        "text": "It would help to have this before our next quarterly planning session. We are evaluating vendors for renewal: what can you do on a five-seat annual plan? Appreciate the help.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "train-25",
+        "split": "train",
+        "text": "What is included in the top tier that the mid tier lacks? Two teams have paused their work while this is unresolved. Thanks.",
+        "label": "sales",
+        "score": 2
+      },
+      {
+        "id": "train-26",
+        "split": "train",
+        "text": "A signed customer is waiting on this before their rollout. We need a purchase order for five licenses before procurement will proceed. See attached logs.",
+        "label": "sales",
+        "score": 2
+      },
+      {
+        "id": "train-27",
+        "split": "train",
+        "text": "Before the next release cycle would be handy. Our trial ends next week and we want to move 3 teams onto the paid tier. Appreciate the help.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "train-28",
+        "split": "train",
+        "text": "Filing this so it is on the record for our documentation. Would love a dark mode and keyboard shortcuts for the annotation tool. This is the last straw before we look at other vendors.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "train-29",
+        "split": "train",
+        "text": "Love the product overall, though the changelog formatting is odd. It would help to have this before our next quarterly planning session. Appreciate the help.",
+        "label": "other",
+        "score": 1
+      },
+      {
+        "id": "train-30",
+        "split": "train",
+        "text": "We have had to reassign two engineers to work around it. The invoice for October is wrong: it lists seats we removed in June. Ticket from our admin console.",
+        "label": "billing",
+        "score": 2
+      },
+      {
+        "id": "train-31",
+        "split": "train",
+        "text": "Our trial ends this Friday and we want to move 4 teams onto the paid tier. Whenever the roadmap allows. Appreciate the help.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "train-32",
+        "split": "train",
+        "text": "Webhooks return 502 errors intermittently, breaking our integration. Our launch committee meets Thursday and this affects the agenda. Thanks.",
+        "label": "technical",
+        "score": 2
+      },
+      {
+        "id": "train-33",
+        "split": "train",
+        "text": "We have had to reassign two engineers to work around it. Would love a dark mode and keyboard shortcuts for the annotation tool. If this is not fixed we are moving to a competitor.",
+        "label": "other",
+        "score": 2
+      },
+      {
+        "id": "train-34",
+        "split": "train",
+        "text": "Before the next release cycle would be handy. Your price increase pushed our plan from $18 to $30 a seat with no notice. Thanks.",
+        "label": "billing",
+        "score": 1
+      },
+      {
+        "id": "train-35",
+        "split": "train",
+        "text": "SSO stopped working for 2 people after we changed our identity provider. Two teams have paused their work while this is unresolved. If this is not fixed we are moving to a competitor.",
+        "label": "account",
+        "score": 2
+      },
+      {
+        "id": "train-36",
+        "split": "train",
+        "text": "The exporter hangs at 60% and never finishes on large files. A signed customer is waiting on this before their rollout. Thanks.",
+        "label": "technical",
+        "score": 2
+      },
+      {
+        "id": "train-37",
+        "split": "train",
+        "text": "The exporter hangs at 60% and never finishes on large files. A signed customer is waiting on this before their rollout. Our renewal decision now depends on how this is handled.",
+        "label": "technical",
+        "score": 2
+      },
+      {
+        "id": "train-38",
+        "split": "train",
+        "text": "Love the product overall, though the changelog formatting is odd. Our team sync is in two weeks, before then is fine. Appreciate the help.",
+        "label": "other",
+        "score": 1
+      },
+      {
+        "id": "train-39",
+        "split": "train",
+        "text": "Before the next release cycle would be handy. SSO stopped working for 6 people after we changed our identity provider. Ticket from our admin console.",
+        "label": "account",
+        "score": 1
+      },
+      {
+        "id": "train-40",
+        "split": "train",
+        "text": "Webhooks return 429 errors intermittently, breaking our integration. Our launch committee meets Thursday and this affects the agenda. Ticket from our admin console.",
+        "label": "technical",
+        "score": 2
+      },
+      {
+        "id": "train-41",
+        "split": "train",
+        "text": "Before the next release cycle would be handy. Our trial ends this Friday and we want to move 3 teams onto the paid tier. Ticket from our admin console.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "train-42",
+        "split": "train",
+        "text": "Adding it to the backlog list we review monthly. Feature request: bulk tagging for saved views would save us hours. See attached logs.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "train-43",
+        "split": "train",
+        "text": "Billing emails land in spam and we missed the invoice due date. The exec team has made this their single top ask this week. If this is not fixed we are moving to a competitor.",
+        "label": "billing",
+        "score": 3
+      },
+      {
+        "id": "train-44",
+        "split": "train",
+        "text": "Before the next release cycle would be handy. Any plans to open an office or community meetup in Austin? See attached logs.",
+        "label": "other",
+        "score": 1
+      },
+      {
+        "id": "train-45",
+        "split": "train",
+        "text": "Adding it to the backlog list we review monthly. We were charged two times on our last invoice and the refund flow failed. Ticket from our admin console.",
+        "label": "billing",
+        "score": 0
+      },
+      {
+        "id": "train-46",
+        "split": "train",
+        "text": "A signed customer is waiting on this before their rollout. The invoice for August is wrong: it lists seats we removed in June. This is the last straw before we look at other vendors.",
+        "label": "billing",
+        "score": 2
+      },
+      {
+        "id": "train-47",
+        "split": "train",
+        "text": "Whenever the roadmap allows. Payment keeps failing on a valid card, so our subscription may lapse. Appreciate the help.",
+        "label": "billing",
+        "score": 1
+      },
+      {
+        "id": "train-48",
+        "split": "train",
+        "text": "Our team sync is in two weeks, before then is fine. Our trial ends this Friday and we want to move 2 teams onto the paid tier. This is the last straw before we look at other vendors.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "train-49",
+        "split": "train",
+        "text": "Our team sync is in two weeks, before then is fine. Your price increase pushed our plan from $15 to $30 a seat with no notice. See attached logs.",
+        "label": "billing",
+        "score": 1
+      }
+    ],
+    "test": [
+      {
+        "id": "test-50",
+        "split": "test",
+        "text": "Our largest customer has paused their renewal pending a fix here. The refund for the duplicate charge still has not arrived after 2 weeks. Our renewal decision now depends on how this is handled.",
+        "label": "billing",
+        "score": 3
+      },
+      {
+        "id": "test-51",
+        "split": "test",
+        "text": "A signed customer is waiting on this before their rollout. The refund for the duplicate charge still has not arrived after 2 weeks. Appreciate the help.",
+        "label": "billing",
+        "score": 2
+      },
+      {
+        "id": "test-52",
+        "split": "test",
+        "text": "Payment keeps failing on a valid card, so our subscription may lapse. A signed customer is waiting on this before their rollout. If this is not fixed we are moving to a competitor.",
+        "label": "billing",
+        "score": 2
+      },
+      {
+        "id": "test-53",
+        "split": "test",
+        "text": "Our team sync is in two weeks, before then is fine. SSO stopped working for 2 people after we changed our identity provider. See attached logs.",
+        "label": "account",
+        "score": 1
+      },
+      {
+        "id": "test-54",
+        "split": "test",
+        "text": "Filing this so it is on the record for our documentation. Your onboarding emails were genuinely useful, thanks to the team. This is the last straw before we look at other vendors.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "test-55",
+        "split": "test",
+        "text": "API responses are missing fields that the docs promise for the Go SDK. We have had to reassign two engineers to work around it. This is the last straw before we look at other vendors.",
+        "label": "technical",
+        "score": 2
+      },
+      {
+        "id": "test-56",
+        "split": "test",
+        "text": "The exec team has made this their single top ask this week. We were charged three times on our last invoice and the refund flow failed. This is the last straw before we look at other vendors.",
+        "label": "billing",
+        "score": 3
+      },
+      {
+        "id": "test-57",
+        "split": "test",
+        "text": "The exec team has made this their single top ask this week. Our whole team got logged out and password reset emails never arrive. Thanks.",
+        "label": "account",
+        "score": 3
+      },
+      {
+        "id": "test-58",
+        "split": "test",
+        "text": "Whenever the roadmap allows. Two former employees still have admin access; please revoke their logins. Thanks.",
+        "label": "account",
+        "score": 1
+      },
+      {
+        "id": "test-59",
+        "split": "test",
+        "text": "Search requests lag for seconds on large projects and time out sometimes. It would help to have this before our next quarterly planning session. See attached logs.",
+        "label": "technical",
+        "score": 1
+      },
+      {
+        "id": "test-60",
+        "split": "test",
+        "text": "It would help to have this before our next quarterly planning session. Any plans to open an office or community meetup in Berlin? See attached logs.",
+        "label": "other",
+        "score": 1
+      },
+      {
+        "id": "test-61",
+        "split": "test",
+        "text": "Our trial ends in ten days and we want to move 2 teams onto the paid tier. It would help to have this before our next quarterly planning session. See attached logs.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "test-62",
+        "split": "test",
+        "text": "The exporter hangs at 40% and never finishes on large files. We have stopped all onboarding until this is resolved. Our renewal decision now depends on how this is handled.",
+        "label": "technical",
+        "score": 3
+      },
+      {
+        "id": "test-63",
+        "split": "test",
+        "text": "Our team sync is in two weeks, before then is fine. Our trial ends next week and we want to move 8 teams onto the paid tier. Thanks.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "test-64",
+        "split": "test",
+        "text": "Feature request: bulk tagging for saved views would save us hours. Filing this so it is on the record for our documentation. See attached logs.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "test-65",
+        "split": "test",
+        "text": "Before the next release cycle would be handy. SSO stopped working for 8 people after we changed our identity provider. Ticket from our admin console.",
+        "label": "account",
+        "score": 1
+      },
+      {
+        "id": "test-66",
+        "split": "test",
+        "text": "Love the product overall, though the changelog formatting is odd. Two teams have paused their work while this is unresolved. Our renewal decision now depends on how this is handled.",
+        "label": "other",
+        "score": 2
+      },
+      {
+        "id": "test-67",
+        "split": "test",
+        "text": "What is included in the top tier that the mid tier lacks? Whenever the roadmap allows. Ticket from our admin console.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "test-68",
+        "split": "test",
+        "text": "Your onboarding emails were genuinely useful, thanks to the team. This is for the notes we keep for the next planning cycle. This is the last straw before we look at other vendors.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "test-69",
+        "split": "test",
+        "text": "The invoice for August is wrong: it lists seats we removed in August. We have had to reassign two engineers to work around it. Our renewal decision now depends on how this is handled.",
+        "label": "billing",
+        "score": 2
+      },
+      {
+        "id": "test-70",
+        "split": "test",
+        "text": "The refund for the duplicate charge still has not arrived after 3 weeks. We have stopped all onboarding until this is resolved. Our renewal decision now depends on how this is handled.",
+        "label": "billing",
+        "score": 3
+      },
+      {
+        "id": "test-71",
+        "split": "test",
+        "text": "Your onboarding emails were genuinely useful, thanks to the team. This is for the notes we keep for the next planning cycle. Ticket from our admin console.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "test-72",
+        "split": "test",
+        "text": "Whenever the roadmap allows. We are evaluating vendors for renewal: what can you do on a three-seat annual plan? See attached logs.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "test-73",
+        "split": "test",
+        "text": "We have stopped all onboarding until this is resolved. Can we get an enterprise quote with SSO and a volume discount? This is the last straw before we look at other vendors.",
+        "label": "sales",
+        "score": 3
+      },
+      {
+        "id": "test-74",
+        "split": "test",
+        "text": "Do you offer nonprofit pricing, and how does it compare to the business plan? Two teams have paused their work while this is unresolved. Thanks.",
+        "label": "sales",
+        "score": 2
+      },
+      {
+        "id": "test-75",
+        "split": "test",
+        "text": "Filing this so it is on the record for our documentation. Would love a dark mode and keyboard shortcuts for the annotation tool. See attached logs.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "test-76",
+        "split": "test",
+        "text": "Our largest customer has paused their renewal pending a fix here. Your price increase pushed our plan from $12 to $30 a seat with no notice. This is the last straw before we look at other vendors.",
+        "label": "billing",
+        "score": 3
+      },
+      {
+        "id": "test-77",
+        "split": "test",
+        "text": "Before the next release cycle would be handy. What is included in the top tier that the mid tier lacks? Appreciate the help.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "test-78",
+        "split": "test",
+        "text": "Our launch committee meets Thursday and this affects the agenda. We were charged three times on our last invoice and the refund flow failed. Ticket from our admin console.",
+        "label": "billing",
+        "score": 2
+      },
+      {
+        "id": "test-79",
+        "split": "test",
+        "text": "Our trial ends in ten days and we want to move 4 teams onto the paid tier. Our team sync is in two weeks, before then is fine. See attached logs.",
+        "label": "sales",
+        "score": 1
+      },
+      {
+        "id": "test-80",
+        "split": "test",
+        "text": "Adding it to the backlog list we review monthly. The release notes are helpful; keep up the good work. See attached logs.",
+        "label": "other",
+        "score": 0
+      },
+      {
+        "id": "test-81",
+        "split": "test",
+        "text": "Payment keeps failing on a valid card, so our subscription may lapse. Our launch committee meets Thursday and this affects the agenda. Ticket from our admin console.",
+        "label": "billing",
+        "score": 2
+      }
+    ]
+  },
+  "reviews": {
+    "train": [
+      {
+        "id": "train-0",
+        "split": "train",
+        "text": "Onboarding was confusing and the docs are outdated.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "train-1",
+        "split": "train",
+        "text": "Constant sync failures make this unusable for our team.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "train-2",
+        "split": "train",
+        "text": "The redesign is beautiful and intuitive. We moved from a self-hosted setup in March. Setup took five minutes and everything just worked.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "train-3",
+        "split": "train",
+        "text": "We use the Pro plan with about 40 seats. Support went above and beyond when we hit a snag.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "train-4",
+        "split": "train",
+        "text": "The redesign is beautiful and intuitive.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "train-5",
+        "split": "train",
+        "text": "We use the Pro plan with about 40 seats. The team behind this is responsive and clearly cares. The redesign is beautiful and intuitive.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "train-6",
+        "split": "train",
+        "text": "We moved from a self-hosted setup in March. Support has ignored three tickets in a row. Constant sync failures make this unusable for our team.",
+        "label": "negative",
+        "score": 1
+      },
+      {
+        "id": "train-7",
+        "split": "train",
+        "text": "Our team is spread across three time zones. Support has ignored three tickets in a row.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "train-8",
+        "split": "train",
+        "text": "It crashes constantly and I have lost work twice this week. We use the Pro plan with about 40 seats. Onboarding was confusing and the docs are outdated.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "train-9",
+        "split": "train",
+        "text": "The team behind this is responsive and clearly cares.",
+        "label": "positive",
+        "score": 3
+      },
+      {
+        "id": "train-10",
+        "split": "train",
+        "text": "Support went above and beyond when we hit a snag. Setup took five minutes and everything just worked.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "train-11",
+        "split": "train",
+        "text": "It crashes constantly and I have lost work twice this week. Onboarding was confusing and the docs are outdated.",
+        "label": "negative",
+        "score": 1
+      },
+      {
+        "id": "train-12",
+        "split": "train",
+        "text": "The price went up while features were removed. Installed the update last Tuesday. Constant sync failures make this unusable for our team.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "train-13",
+        "split": "train",
+        "text": "We moved from a self-hosted setup in March. Support went above and beyond when we hit a snag. Support went above and beyond when we hit a snag. Constant sync failures make this unusable for our team.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "train-14",
+        "split": "train",
+        "text": "Absolutely love the new dashboard, it saves me hours every week. The team behind this is responsive and clearly cares. We moved from a self-hosted setup in March. It crashes constantly and I have lost work twice this week. Onboarding was confusing and the docs are outdated.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "train-15",
+        "split": "train",
+        "text": "Our team is spread across three time zones. Constant sync failures make this unusable for our team.",
+        "label": "negative",
+        "score": 1
+      },
+      {
+        "id": "train-16",
+        "split": "train",
+        "text": "The team behind this is responsive and clearly cares. Absolutely love the new dashboard, it saves me hours every week.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "train-17",
+        "split": "train",
+        "text": "Best purchase we made this year, our workflow is noticeably faster. Support went above and beyond when we hit a snag.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "train-18",
+        "split": "train",
+        "text": "We moved from a self-hosted setup in March. Support has ignored three tickets in a row.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "train-19",
+        "split": "train",
+        "text": "Our team is spread across three time zones. Absolutely love the new dashboard, it saves me hours every week.",
+        "label": "positive",
+        "score": 3
+      },
+      {
+        "id": "train-20",
+        "split": "train",
+        "text": "Does this integrate with LDAP? Best purchase we made this year, our workflow is noticeably faster.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "train-21",
+        "split": "train",
+        "text": "The price went up while features were removed.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "train-22",
+        "split": "train",
+        "text": "Installed the update last Tuesday. Constant sync failures make this unusable for our team. Constant sync failures make this unusable for our team.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "train-23",
+        "split": "train",
+        "text": "Support has ignored three tickets in a row.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "train-24",
+        "split": "train",
+        "text": "Absolutely love the new dashboard, it saves me hours every week.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "train-25",
+        "split": "train",
+        "text": "The export feature mangles our data every single time.",
+        "label": "negative",
+        "score": 1
+      },
+      {
+        "id": "train-26",
+        "split": "train",
+        "text": "The team behind this is responsive and clearly cares. Absolutely love the new dashboard, it saves me hours every week. The workspace has six projects and two admins. The export feature mangles our data every single time. Support has ignored three tickets in a row.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "train-27",
+        "split": "train",
+        "text": "The redesign is beautiful and intuitive. Absolutely love the new dashboard, it saves me hours every week. Support has ignored three tickets in a row.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "train-28",
+        "split": "train",
+        "text": "The redesign is beautiful and intuitive. The workspace has six projects and two admins. Best purchase we made this year, our workflow is noticeably faster. Onboarding was confusing and the docs are outdated. Constant sync failures make this unusable for our team.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "train-29",
+        "split": "train",
+        "text": "Best purchase we made this year, our workflow is noticeably faster. Setup took five minutes and everything just worked.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "train-30",
+        "split": "train",
+        "text": "Installed the update last Tuesday. Support went above and beyond when we hit a snag. The team behind this is responsive and clearly cares. It crashes constantly and I have lost work twice this week. Support has ignored three tickets in a row.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "train-31",
+        "split": "train",
+        "text": "The export feature mangles our data every single time. Our team is spread across three time zones. The export feature mangles our data every single time.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "train-32",
+        "split": "train",
+        "text": "We use the Pro plan with about 40 seats. The price went up while features were removed.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "train-33",
+        "split": "train",
+        "text": "We use the Pro plan with about 40 seats. Best purchase we made this year, our workflow is noticeably faster. Best purchase we made this year, our workflow is noticeably faster.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "train-34",
+        "split": "train",
+        "text": "Support went above and beyond when we hit a snag. We use the Pro plan with about 40 seats. Constant sync failures make this unusable for our team.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "train-35",
+        "split": "train",
+        "text": "Best purchase we made this year, our workflow is noticeably faster. Absolutely love the new dashboard, it saves me hours every week.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "train-36",
+        "split": "train",
+        "text": "Constant sync failures make this unusable for our team. The export feature mangles our data every single time.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "train-37",
+        "split": "train",
+        "text": "We moved from a self-hosted setup in March. Absolutely love the new dashboard, it saves me hours every week.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "train-38",
+        "split": "train",
+        "text": "The team behind this is responsive and clearly cares. Support has ignored three tickets in a row.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "train-39",
+        "split": "train",
+        "text": "The redesign is beautiful and intuitive. Best purchase we made this year, our workflow is noticeably faster. Support has ignored three tickets in a row. The price went up while features were removed.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "train-40",
+        "split": "train",
+        "text": "Constant sync failures make this unusable for our team. Onboarding was confusing and the docs are outdated.",
+        "label": "negative",
+        "score": 1
+      },
+      {
+        "id": "train-41",
+        "split": "train",
+        "text": "The redesign is beautiful and intuitive. Installed the update last Tuesday. Support went above and beyond when we hit a snag.",
+        "label": "positive",
+        "score": 3
+      },
+      {
+        "id": "train-42",
+        "split": "train",
+        "text": "The export feature mangles our data every single time. Does this integrate with LDAP? It crashes constantly and I have lost work twice this week.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "train-43",
+        "split": "train",
+        "text": "The export feature mangles our data every single time. The workspace has six projects and two admins. The export feature mangles our data every single time.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "train-44",
+        "split": "train",
+        "text": "Absolutely love the new dashboard, it saves me hours every week. Setup took five minutes and everything just worked. The workspace has six projects and two admins. It crashes constantly and I have lost work twice this week.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "train-45",
+        "split": "train",
+        "text": "Setup took five minutes and everything just worked.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "train-46",
+        "split": "train",
+        "text": "Support went above and beyond when we hit a snag. Support went above and beyond when we hit a snag. It crashes constantly and I have lost work twice this week.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "train-47",
+        "split": "train",
+        "text": "We moved from a self-hosted setup in March. Constant sync failures make this unusable for our team.",
+        "label": "negative",
+        "score": 1
+      },
+      {
+        "id": "train-48",
+        "split": "train",
+        "text": "Installed the update last Tuesday. Absolutely love the new dashboard, it saves me hours every week.",
+        "label": "positive",
+        "score": 3
+      },
+      {
+        "id": "train-49",
+        "split": "train",
+        "text": "The price went up while features were removed. We moved from a self-hosted setup in March. Constant sync failures make this unusable for our team.",
+        "label": "negative",
+        "score": 0
+      }
+    ],
+    "test": [
+      {
+        "id": "test-50",
+        "split": "test",
+        "text": "Best purchase we made this year, our workflow is noticeably faster. Does this integrate with LDAP? Absolutely love the new dashboard, it saves me hours every week.",
+        "label": "positive",
+        "score": 3
+      },
+      {
+        "id": "test-51",
+        "split": "test",
+        "text": "Support went above and beyond when we hit a snag. It crashes constantly and I have lost work twice this week.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "test-52",
+        "split": "test",
+        "text": "Setup took five minutes and everything just worked. Absolutely love the new dashboard, it saves me hours every week.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "test-53",
+        "split": "test",
+        "text": "Support went above and beyond when we hit a snag. Support has ignored three tickets in a row. We moved from a self-hosted setup in March. It crashes constantly and I have lost work twice this week.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "test-54",
+        "split": "test",
+        "text": "Setup took five minutes and everything just worked. Constant sync failures make this unusable for our team. Support has ignored three tickets in a row.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "test-55",
+        "split": "test",
+        "text": "Setup took five minutes and everything just worked. The team behind this is responsive and clearly cares.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "test-56",
+        "split": "test",
+        "text": "Best purchase we made this year, our workflow is noticeably faster.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "test-57",
+        "split": "test",
+        "text": "Does this integrate with LDAP? The price went up while features were removed.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "test-58",
+        "split": "test",
+        "text": "Absolutely love the new dashboard, it saves me hours every week. We moved from a self-hosted setup in March. Best purchase we made this year, our workflow is noticeably faster.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "test-59",
+        "split": "test",
+        "text": "Best purchase we made this year, our workflow is noticeably faster. Our team is spread across three time zones. The price went up while features were removed. Constant sync failures make this unusable for our team.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "test-60",
+        "split": "test",
+        "text": "The redesign is beautiful and intuitive. The price went up while features were removed.",
+        "label": "mixed",
+        "score": 1
+      },
+      {
+        "id": "test-61",
+        "split": "test",
+        "text": "The price went up while features were removed. It crashes constantly and I have lost work twice this week.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "test-62",
+        "split": "test",
+        "text": "Our team is spread across three time zones. The export feature mangles our data every single time.",
+        "label": "negative",
+        "score": 1
+      },
+      {
+        "id": "test-63",
+        "split": "test",
+        "text": "Absolutely love the new dashboard, it saves me hours every week. It crashes constantly and I have lost work twice this week. Our team is spread across three time zones. Constant sync failures make this unusable for our team.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "test-64",
+        "split": "test",
+        "text": "Support went above and beyond when we hit a snag. Support went above and beyond when we hit a snag. The export feature mangles our data every single time. Onboarding was confusing and the docs are outdated.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "test-65",
+        "split": "test",
+        "text": "Absolutely love the new dashboard, it saves me hours every week. The team behind this is responsive and clearly cares.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "test-66",
+        "split": "test",
+        "text": "Support went above and beyond when we hit a snag. Onboarding was confusing and the docs are outdated.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "test-67",
+        "split": "test",
+        "text": "Installed the update last Tuesday. The redesign is beautiful and intuitive.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "test-68",
+        "split": "test",
+        "text": "Support went above and beyond when we hit a snag. The team behind this is responsive and clearly cares.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "test-69",
+        "split": "test",
+        "text": "The team behind this is responsive and clearly cares. The workspace has six projects and two admins. Constant sync failures make this unusable for our team. Support has ignored three tickets in a row.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "test-70",
+        "split": "test",
+        "text": "Onboarding was confusing and the docs are outdated. The price went up while features were removed.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "test-71",
+        "split": "test",
+        "text": "The redesign is beautiful and intuitive. Constant sync failures make this unusable for our team. Constant sync failures make this unusable for our team.",
+        "label": "mixed",
+        "score": 3
+      },
+      {
+        "id": "test-72",
+        "split": "test",
+        "text": "Our team is spread across three time zones. Best purchase we made this year, our workflow is noticeably faster.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "test-73",
+        "split": "test",
+        "text": "The price went up while features were removed. Support has ignored three tickets in a row.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "test-74",
+        "split": "test",
+        "text": "We moved from a self-hosted setup in March. The price went up while features were removed. Constant sync failures make this unusable for our team.",
+        "label": "negative",
+        "score": 1
+      },
+      {
+        "id": "test-75",
+        "split": "test",
+        "text": "Support went above and beyond when we hit a snag. Support went above and beyond when we hit a snag.",
+        "label": "positive",
+        "score": 4
+      },
+      {
+        "id": "test-76",
+        "split": "test",
+        "text": "Support went above and beyond when we hit a snag. Setup took five minutes and everything just worked. Support has ignored three tickets in a row.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "test-77",
+        "split": "test",
+        "text": "Best purchase we made this year, our workflow is noticeably faster. Onboarding was confusing and the docs are outdated. Support has ignored three tickets in a row.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "test-78",
+        "split": "test",
+        "text": "Best purchase we made this year, our workflow is noticeably faster. Our team is spread across three time zones. Support has ignored three tickets in a row.",
+        "label": "mixed",
+        "score": 2
+      },
+      {
+        "id": "test-79",
+        "split": "test",
+        "text": "The workspace has six projects and two admins. The price went up while features were removed.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "test-80",
+        "split": "test",
+        "text": "Constant sync failures make this unusable for our team. Does this integrate with LDAP? Onboarding was confusing and the docs are outdated.",
+        "label": "negative",
+        "score": 0
+      },
+      {
+        "id": "test-81",
+        "split": "test",
+        "text": "The price went up while features were removed. Does this integrate with LDAP? Support has ignored three tickets in a row.",
+        "label": "negative",
+        "score": 0
+      }
+    ]
+  },
+  "topics": {
+    "train": [
+      {
+        "id": "train-0",
+        "split": "train",
+        "text": "The beta cohort gave strong feedback on the new editor. Adoption of the mobile app is growing fastest in field teams. The recording is available for anyone who missed it.",
+        "label": "product"
+      },
+      {
+        "id": "train-1",
+        "split": "train",
+        "text": "Rotate the service credentials that were shared in the incident channel. Access reviews are due before the audit window opens. Follow-ups are due by end of week.",
+        "label": "security"
+      },
+      {
+        "id": "train-2",
+        "split": "train",
+        "text": "The beta cohort gave strong feedback on the new editor. Users are asking for inline comments on shared reports.",
+        "label": "product"
+      },
+      {
+        "id": "train-3",
+        "split": "train",
+        "text": "Users are asking for inline comments on shared reports. We should deprioritize the legacy import path in the next cycle. The recording is available for anyone who missed it.",
+        "label": "product"
+      },
+      {
+        "id": "train-4",
+        "split": "train",
+        "text": "The benefits enrollment window closes at the end of the month. Users are asking for inline comments on shared reports. We need to onboard three new hires to the design tool. Follow-ups are due by end of week.",
+        "label": "hr"
+      },
+      {
+        "id": "train-5",
+        "split": "train",
+        "text": "The CDN cache hit rate dropped after last week's config change. The staging cluster is running out of disk on the database nodes. Notes from this morning's sync are in the shared doc.",
+        "label": "infrastructure"
+      },
+      {
+        "id": "train-6",
+        "split": "train",
+        "text": "We should deprioritize the legacy import path in the next cycle. Users are asking for inline comments on shared reports. Action items are assigned in the tracker.",
+        "label": "product"
+      },
+      {
+        "id": "train-7",
+        "split": "train",
+        "text": "We flagged an unusual login pattern from an unrecognized device. Adoption of the mobile app is growing fastest in field teams. The beta cohort gave strong feedback on the new editor.",
+        "label": "product"
+      },
+      {
+        "id": "train-8",
+        "split": "train",
+        "text": "We should deprioritize the legacy import path in the next cycle. The CDN cache hit rate dropped after last week's config change. Adoption of the mobile app is growing fastest in field teams. Notes from this morning's sync are in the shared doc.",
+        "label": "product"
+      },
+      {
+        "id": "train-9",
+        "split": "train",
+        "text": "The benefits enrollment window closes at the end of the month. Two contractors are converting to full-time next quarter.",
+        "label": "hr"
+      },
+      {
+        "id": "train-10",
+        "split": "train",
+        "text": "Two contractors are converting to full-time next quarter. Rotate the service credentials that were shared in the incident channel. The annual review cycle starts in November and managers need templates.",
+        "label": "hr"
+      },
+      {
+        "id": "train-11",
+        "split": "train",
+        "text": "The annual review cycle starts in November and managers need templates. The benefits enrollment window closes at the end of the month. The recording is available for anyone who missed it.",
+        "label": "hr"
+      },
+      {
+        "id": "train-12",
+        "split": "train",
+        "text": "Terraform plans now take 20 minutes to apply. The staging cluster is running out of disk on the database nodes. Reminder that the office is closed Monday.",
+        "label": "infrastructure"
+      },
+      {
+        "id": "train-13",
+        "split": "train",
+        "text": "Budget for tooling renewals is flat year over year. Procurement wants a consolidated contract before renewal season. The recording is available for anyone who missed it.",
+        "label": "finance"
+      },
+      {
+        "id": "train-14",
+        "split": "train",
+        "text": "We flagged an unusual login pattern from an unrecognized device. Access reviews are due before the audit window opens.",
+        "label": "security"
+      },
+      {
+        "id": "train-15",
+        "split": "train",
+        "text": "The Q3 forecast assumes the enterprise discount holds. Budget for tooling renewals is flat year over year. Follow-ups are due by end of week.",
+        "label": "finance"
+      },
+      {
+        "id": "train-16",
+        "split": "train",
+        "text": "Rotate the service credentials that were shared in the incident channel. Two contractors are converting to full-time next quarter. The annual review cycle starts in November and managers need templates. Action items are assigned in the tracker.",
+        "label": "hr"
+      },
+      {
+        "id": "train-17",
+        "split": "train",
+        "text": "Adoption of the mobile app is growing fastest in field teams. Users are asking for inline comments on shared reports. Notes from this morning's sync are in the shared doc.",
+        "label": "product"
+      },
+      {
+        "id": "train-18",
+        "split": "train",
+        "text": "Two invoices from the vendor are still in dispute. The Q3 forecast assumes the enterprise discount holds.",
+        "label": "finance"
+      },
+      {
+        "id": "train-19",
+        "split": "train",
+        "text": "Procurement wants a consolidated contract before renewal season. The Q3 forecast assumes the enterprise discount holds. Action items are assigned in the tracker.",
+        "label": "finance"
+      },
+      {
+        "id": "train-20",
+        "split": "train",
+        "text": "The staging cluster is running out of disk on the database nodes. Two contractors are converting to full-time next quarter. The annual review cycle starts in November and managers need templates. Follow-ups are due by end of week.",
+        "label": "hr"
+      },
+      {
+        "id": "train-21",
+        "split": "train",
+        "text": "Adoption of the mobile app is growing fastest in field teams. The pen test found a stored-XSS issue in the comments module. Users are asking for inline comments on shared reports. Reminder that the office is closed Monday.",
+        "label": "product"
+      },
+      {
+        "id": "train-22",
+        "split": "train",
+        "text": "The beta cohort gave strong feedback on the new editor. We should deprioritize the legacy import path in the next cycle. Reminder that the office is closed Monday.",
+        "label": "product"
+      },
+      {
+        "id": "train-23",
+        "split": "train",
+        "text": "The pen test found a stored-XSS issue in the comments module. We should deprioritize the legacy import path in the next cycle. The beta cohort gave strong feedback on the new editor.",
+        "label": "product"
+      },
+      {
+        "id": "train-24",
+        "split": "train",
+        "text": "We need to onboard three new hires to the design tool. The annual review cycle starts in November and managers need templates. Action items are assigned in the tracker.",
+        "label": "hr"
+      },
+      {
+        "id": "train-25",
+        "split": "train",
+        "text": "Two contractors are converting to full-time next quarter. We need to onboard three new hires to the design tool. Pinged the owner in the channel this morning.",
+        "label": "hr"
+      },
+      {
+        "id": "train-26",
+        "split": "train",
+        "text": "Procurement wants a consolidated contract before renewal season. The CDN cache hit rate dropped after last week's config change. Two invoices from the vendor are still in dispute.",
+        "label": "finance"
+      },
+      {
+        "id": "train-27",
+        "split": "train",
+        "text": "The staging cluster is running out of disk on the database nodes. Terraform plans now take 20 minutes to apply. Reminder that the office is closed Monday.",
+        "label": "infrastructure"
+      },
+      {
+        "id": "train-28",
+        "split": "train",
+        "text": "The CDN cache hit rate dropped after last week's config change. We are moving the batch jobs to a new region for latency.",
+        "label": "infrastructure"
+      },
+      {
+        "id": "train-29",
+        "split": "train",
+        "text": "Users are asking for inline comments on shared reports. Procurement wants a consolidated contract before renewal season. The beta cohort gave strong feedback on the new editor.",
+        "label": "product"
+      },
+      {
+        "id": "train-30",
+        "split": "train",
+        "text": "Budget for tooling renewals is flat year over year. Procurement wants a consolidated contract before renewal season.",
+        "label": "finance"
+      },
+      {
+        "id": "train-31",
+        "split": "train",
+        "text": "We are moving the batch jobs to a new region for latency. The CDN cache hit rate dropped after last week's config change. Follow-ups are due by end of week.",
+        "label": "infrastructure"
+      },
+      {
+        "id": "train-32",
+        "split": "train",
+        "text": "We need to onboard three new hires to the design tool. The beta cohort gave strong feedback on the new editor. Adoption of the mobile app is growing fastest in field teams.",
+        "label": "product"
+      },
+      {
+        "id": "train-33",
+        "split": "train",
+        "text": "Adoption of the mobile app is growing fastest in field teams. We should deprioritize the legacy import path in the next cycle.",
+        "label": "product"
+      },
+      {
+        "id": "train-34",
+        "split": "train",
+        "text": "We should deprioritize the legacy import path in the next cycle. The benefits enrollment window closes at the end of the month. We need to onboard three new hires to the design tool.",
+        "label": "hr"
+      },
+      {
+        "id": "train-35",
+        "split": "train",
+        "text": "Adoption of the mobile app is growing fastest in field teams. Users are asking for inline comments on shared reports.",
+        "label": "product"
+      },
+      {
+        "id": "train-36",
+        "split": "train",
+        "text": "We are moving the batch jobs to a new region for latency. Terraform plans now take 20 minutes to apply. Action items are assigned in the tracker.",
+        "label": "infrastructure"
+      },
+      {
+        "id": "train-37",
+        "split": "train",
+        "text": "Two contractors are converting to full-time next quarter. We need to onboard three new hires to the design tool.",
+        "label": "hr"
+      },
+      {
+        "id": "train-38",
+        "split": "train",
+        "text": "The launch campaign assets need final review this week. The beta cohort gave strong feedback on the new editor. Users are asking for inline comments on shared reports.",
+        "label": "product"
+      },
+      {
+        "id": "train-39",
+        "split": "train",
+        "text": "Two contractors are converting to full-time next quarter. Budget for tooling renewals is flat year over year. The benefits enrollment window closes at the end of the month.",
+        "label": "hr"
+      },
+      {
+        "id": "train-40",
+        "split": "train",
+        "text": "We need to onboard three new hires to the design tool. The CDN cache hit rate dropped after last week's config change. We are moving the batch jobs to a new region for latency. Pinged the owner in the channel this morning.",
+        "label": "infrastructure"
+      },
+      {
+        "id": "train-41",
+        "split": "train",
+        "text": "The pen test found a stored-XSS issue in the comments module. We should deprioritize the legacy import path in the next cycle. Adoption of the mobile app is growing fastest in field teams.",
+        "label": "product"
+      },
+      {
+        "id": "train-42",
+        "split": "train",
+        "text": "The staging cluster is running out of disk on the database nodes. The CDN cache hit rate dropped after last week's config change. The recording is available for anyone who missed it.",
+        "label": "infrastructure"
+      },
+      {
+        "id": "train-43",
+        "split": "train",
+        "text": "Procurement wants a consolidated contract before renewal season. Budget for tooling renewals is flat year over year.",
+        "label": "finance"
+      },
+      {
+        "id": "train-44",
+        "split": "train",
+        "text": "The pen test found a stored-XSS issue in the comments module. Access reviews are due before the audit window opens.",
+        "label": "security"
+      },
+      {
+        "id": "train-45",
+        "split": "train",
+        "text": "We should deprioritize the legacy import path in the next cycle. Adoption of the mobile app is growing fastest in field teams.",
+        "label": "product"
+      },
+      {
+        "id": "train-46",
+        "split": "train",
+        "text": "Access reviews are due before the audit window opens. The pen test found a stored-XSS issue in the comments module.",
+        "label": "security"
+      },
+      {
+        "id": "train-47",
+        "split": "train",
+        "text": "Budget for tooling renewals is flat year over year. Procurement wants a consolidated contract before renewal season. Action items are assigned in the tracker.",
+        "label": "finance"
+      },
+      {
+        "id": "train-48",
+        "split": "train",
+        "text": "Webinar registrations are tracking 30% above last quarter. The launch campaign assets need final review this week.",
+        "label": "marketing"
+      },
+      {
+        "id": "train-49",
+        "split": "train",
+        "text": "We should deprioritize the legacy import path in the next cycle. Users are asking for inline comments on shared reports.",
+        "label": "product"
+      }
+    ],
+    "test": [
+      {
+        "id": "test-50",
+        "split": "test",
+        "text": "We are moving the batch jobs to a new region for latency. The staging cluster is running out of disk on the database nodes.",
+        "label": "infrastructure"
+      },
+      {
+        "id": "test-51",
+        "split": "test",
+        "text": "The beta cohort gave strong feedback on the new editor. We should deprioritize the legacy import path in the next cycle.",
+        "label": "product"
+      },
+      {
+        "id": "test-52",
+        "split": "test",
+        "text": "Access reviews are due before the audit window opens. The staging cluster is running out of disk on the database nodes. We are moving the batch jobs to a new region for latency.",
+        "label": "infrastructure"
+      },
+      {
+        "id": "test-53",
+        "split": "test",
+        "text": "Users are asking for inline comments on shared reports. Access reviews are due before the audit window opens. The beta cohort gave strong feedback on the new editor.",
+        "label": "product"
+      },
+      {
+        "id": "test-54",
+        "split": "test",
+        "text": "Procurement wants a consolidated contract before renewal season. The pen test found a stored-XSS issue in the comments module. Two invoices from the vendor are still in dispute. Action items are assigned in the tracker.",
+        "label": "finance"
+      },
+      {
+        "id": "test-55",
+        "split": "test",
+        "text": "We should deprioritize the legacy import path in the next cycle. The beta cohort gave strong feedback on the new editor. Pinged the owner in the channel this morning.",
+        "label": "product"
+      },
+      {
+        "id": "test-56",
+        "split": "test",
+        "text": "We flagged an unusual login pattern from an unrecognized device. Adoption of the mobile app is growing fastest in field teams. Users are asking for inline comments on shared reports. Follow-ups are due by end of week.",
+        "label": "product"
+      },
+      {
+        "id": "test-57",
+        "split": "test",
+        "text": "Adoption of the mobile app is growing fastest in field teams. The beta cohort gave strong feedback on the new editor. Pinged the owner in the channel this morning.",
+        "label": "product"
+      },
+      {
+        "id": "test-58",
+        "split": "test",
+        "text": "We need to onboard three new hires to the design tool. The annual review cycle starts in November and managers need templates.",
+        "label": "hr"
+      },
+      {
+        "id": "test-59",
+        "split": "test",
+        "text": "Terraform plans now take 20 minutes to apply. The beta cohort gave strong feedback on the new editor. Adoption of the mobile app is growing fastest in field teams. Pinged the owner in the channel this morning.",
+        "label": "product"
+      },
+      {
+        "id": "test-60",
+        "split": "test",
+        "text": "We need to onboard three new hires to the design tool. Two contractors are converting to full-time next quarter.",
+        "label": "hr"
+      },
+      {
+        "id": "test-61",
+        "split": "test",
+        "text": "The annual review cycle starts in November and managers need templates. The benefits enrollment window closes at the end of the month. Follow-ups are due by end of week.",
+        "label": "hr"
+      },
+      {
+        "id": "test-62",
+        "split": "test",
+        "text": "The launch campaign assets need final review this week. The staging cluster is running out of disk on the database nodes. The CDN cache hit rate dropped after last week's config change. The recording is available for anyone who missed it.",
+        "label": "infrastructure"
+      },
+      {
+        "id": "test-63",
+        "split": "test",
+        "text": "The beta cohort gave strong feedback on the new editor. Webinar registrations are tracking 30% above last quarter. Adoption of the mobile app is growing fastest in field teams. The recording is available for anyone who missed it.",
+        "label": "product"
+      },
+      {
+        "id": "test-64",
+        "split": "test",
+        "text": "The annual review cycle starts in November and managers need templates. The beta cohort gave strong feedback on the new editor. We should deprioritize the legacy import path in the next cycle. Reminder that the office is closed Monday.",
+        "label": "product"
+      },
+      {
+        "id": "test-65",
+        "split": "test",
+        "text": "Rotate the service credentials that were shared in the incident channel. We flagged an unusual login pattern from an unrecognized device. Follow-ups are due by end of week.",
+        "label": "security"
+      },
+      {
+        "id": "test-66",
+        "split": "test",
+        "text": "We should deprioritize the legacy import path in the next cycle. We are moving the batch jobs to a new region for latency. Adoption of the mobile app is growing fastest in field teams.",
+        "label": "product"
+      },
+      {
+        "id": "test-67",
+        "split": "test",
+        "text": "We are moving the batch jobs to a new region for latency. Two contractors are converting to full-time next quarter. Terraform plans now take 20 minutes to apply. Reminder that the office is closed Monday.",
+        "label": "infrastructure"
+      },
+      {
+        "id": "test-68",
+        "split": "test",
+        "text": "Users are asking for inline comments on shared reports. Adoption of the mobile app is growing fastest in field teams.",
+        "label": "product"
+      },
+      {
+        "id": "test-69",
+        "split": "test",
+        "text": "Two invoices from the vendor are still in dispute. The Q3 forecast assumes the enterprise discount holds. The recording is available for anyone who missed it.",
+        "label": "finance"
+      },
+      {
+        "id": "test-70",
+        "split": "test",
+        "text": "Terraform plans now take 20 minutes to apply. We are moving the batch jobs to a new region for latency.",
+        "label": "infrastructure"
+      },
+      {
+        "id": "test-71",
+        "split": "test",
+        "text": "We want to spotlight two customer stories in the newsletter. The benefits enrollment window closes at the end of the month. The launch campaign assets need final review this week.",
+        "label": "marketing"
+      },
+      {
+        "id": "test-72",
+        "split": "test",
+        "text": "Adoption of the mobile app is growing fastest in field teams. Users are asking for inline comments on shared reports. Follow-ups are due by end of week.",
+        "label": "product"
+      },
+      {
+        "id": "test-73",
+        "split": "test",
+        "text": "We need to onboard three new hires to the design tool. The benefits enrollment window closes at the end of the month. The recording is available for anyone who missed it.",
+        "label": "hr"
+      },
+      {
+        "id": "test-74",
+        "split": "test",
+        "text": "Webinar registrations are tracking 30% above last quarter. We want to spotlight two customer stories in the newsletter. Pinged the owner in the channel this morning.",
+        "label": "marketing"
+      },
+      {
+        "id": "test-75",
+        "split": "test",
+        "text": "Two invoices from the vendor are still in dispute. Budget for tooling renewals is flat year over year. Reminder that the office is closed Monday.",
+        "label": "finance"
+      },
+      {
+        "id": "test-76",
+        "split": "test",
+        "text": "Budget for tooling renewals is flat year over year. The Q3 forecast assumes the enterprise discount holds.",
+        "label": "finance"
+      },
+      {
+        "id": "test-77",
+        "split": "test",
+        "text": "The launch campaign assets need final review this week. The beta cohort gave strong feedback on the new editor. The positioning doc still references the old pricing tiers.",
+        "label": "marketing"
+      },
+      {
+        "id": "test-78",
+        "split": "test",
+        "text": "Two invoices from the vendor are still in dispute. Two contractors are converting to full-time next quarter. Budget for tooling renewals is flat year over year.",
+        "label": "finance"
+      },
+      {
+        "id": "test-79",
+        "split": "test",
+        "text": "We should deprioritize the legacy import path in the next cycle. The beta cohort gave strong feedback on the new editor.",
+        "label": "product"
+      },
+      {
+        "id": "test-80",
+        "split": "test",
+        "text": "We need to onboard three new hires to the design tool. The benefits enrollment window closes at the end of the month. Notes from this morning's sync are in the shared doc.",
+        "label": "hr"
+      },
+      {
+        "id": "test-81",
+        "split": "test",
+        "text": "The staging cluster is running out of disk on the database nodes. The CDN cache hit rate dropped after last week's config change. Reminder that the office is closed Monday.",
+        "label": "infrastructure"
+      }
+    ]
+  }
+}

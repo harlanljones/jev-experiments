@@ -1,0 +1,68 @@
+{
+  "pool": 1000,
+  "goldTestSize": 96,
+  "labeling": {
+    "clef": {
+      "wallMs": 40758,
+      "msPerItem": 40.8,
+      "goldAgreement": {
+        "choice": 0.94,
+        "score": 0.678
+      }
+    },
+    "clef-flash": {
+      "wallMs": 32481,
+      "msPerItem": 32.5,
+      "goldAgreement": {
+        "choice": 0.954,
+        "score": 0.646
+      }
+    }
+  },
+  "rows": [
+    {
+      "name": "logreg(50 gold)",
+      "requests": 0,
+      "choiceAcc": 0.78125,
+      "scoreAcc": 0.7708333333333334,
+      "scoreMae": 0.2916666666666667
+    },
+    {
+      "name": "logreg(1000 clef-labels)",
+      "requests": 1000,
+      "choiceAcc": 0.9791666666666666,
+      "scoreAcc": 0.6458333333333334,
+      "scoreMae": 0.3854166666666667,
+      "trainMs": 1880
+    },
+    {
+      "name": "logreg(1000 clef-flash-labels)",
+      "requests": 1000,
+      "choiceAcc": 0.96875,
+      "scoreAcc": 0.5625,
+      "scoreMae": 0.46875,
+      "trainMs": 1777
+    },
+    {
+      "name": "jev-zero-shot",
+      "requests": 96,
+      "choiceAcc": 0.96875,
+      "scoreAcc": 0.78125,
+      "scoreMae": 0.2604166666666667
+    },
+    {
+      "name": "clef-zero-shot",
+      "requests": 96,
+      "choiceAcc": 0.9791666666666666,
+      "scoreAcc": 0.75,
+      "scoreMae": 0.2708333333333333
+    },
+    {
+      "name": "clef-flash-zero-shot",
+      "requests": 96,
+      "choiceAcc": 0.96875,
+      "scoreAcc": 0.75,
+      "scoreMae": 0.2708333333333333
+    }
+  ]
+}
